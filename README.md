@@ -1,7 +1,7 @@
 # Linux Basics and Forensics
 
 ## Introduction
-This workshop covers essential Linux commands and concepts necessary for participating in Capture The Flag (CTF) competitions. It's designed for beginners and focuses on practical skills for navigating Linux systems and performing basic forensics tasks.
+This workshop covers essential Linux commands and concepts necessary for participating in Capture The Flag (CTF) competitions. It's designed for beginners and focuses on practical skills for navigating Linux systems. Tailored specifically for Arch based systems.
 
 ## Linux File System Structure
 Linux uses a hierarchical file system structure. Key directories include:
