@@ -127,6 +127,7 @@ Linux uses a hierarchical file system structure. Key directories include:
 Register at `https://play.picoctf.org/`
 - P1) `https://play.picoctf.org/practice/challenge/85`
 - P2) `https://play.picoctf.org/practice/challenge/320`
+- p3) `https://play.picoctf.org/practice/challenge/15`
 
 
 ## CTF Tips
