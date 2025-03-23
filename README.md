@@ -5,7 +5,7 @@ Linux
 │   ├── Arch Linux  
 │   ├── Manjaro  
 │   ├── EndeavourOS  
-│   ├── Athena OS  `We are here`
+│   ├── Athena OS  `We are here`  
 │   ├── Artix Linux  
 │   ├── Garuda Linux  
 │   ├── ArcoLinux  
