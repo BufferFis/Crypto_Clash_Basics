@@ -94,6 +94,10 @@ Linux uses a hierarchical file system structure. Key directories include:
 - `tail`: Show the end of a file
 - `less`: View file contents page by page
 
+### Changing mod
+- `chmod`: change the mod of any file
+ -`chmod +x [filename]` 
+
 
 ### Searching and Filtering and editing text
 - `grep`: Search for patterns in files
