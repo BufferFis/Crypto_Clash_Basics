@@ -139,9 +139,9 @@ A disk image is a huge dump of many numbers. But these numbers have an invisible
 
 ### Problems: 
 Register at `https://play.picoctf.org/`
-- P1) `https://play.picoctf.org/practice/challenge/85`
-- P2) `https://play.picoctf.org/practice/challenge/320`
-- p3) `https://play.picoctf.org/practice/challenge/15`
+- https://play.picoctf.org/practice/challenge/85
+- https://play.picoctf.org/practice/challenge/320
+- https://play.picoctf.org/practice/challenge/15
 
 - Disk based questions
  - https://play.picoctf.org/practice/challenge/300 
