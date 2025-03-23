@@ -144,7 +144,8 @@ Register at `https://play.picoctf.org/`
 - https://play.picoctf.org/practice/challenge/15
 
 Disk based questions
- - https://play.picoctf.org/practice/challenge/300 
+ - https://play.picoctf.org/practice/challenge/300
+ - https://play.picoctf.org/practice/challenge/285
 
 
 ## CTF Tips
