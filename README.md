@@ -44,7 +44,7 @@ Linux
 │   ├── Clear Linux (Intel-optimized)  
 
 
-# Linux Basics and Forensics
+# Linux Basics
 
 ## Introduction
 This workshop covers essential Linux commands and concepts necessary for participating in Capture The Flag (CTF) competitions. It's designed for beginners and focuses on practical skills for navigating Linux systems. Tailored specifically for Arch based systems.
