@@ -109,6 +109,13 @@ Linux uses a hierarchical file system structure. Key directories include:
 	 - Example: `vim sometext.txt` or `vim script.py` 
 
 
+### Networking commands
+- `nc`: Netcat is a versatile networking tool for reading from and writing to network connections using TCP or UDP.
+ - `nc [options] [hostname] [port]`
+- `wget`: It is used to download files from the web.
+ - `wget [URL]`: Download the file from the url.
+ - `wget -r [URL]`: Download everyfile from the web recursively from the url. 
+
 
 ### Other Useful Commands
 - `file [filename]`: Determine file type
@@ -116,6 +123,10 @@ Linux uses a hierarchical file system structure. Key directories include:
 - `tar -xvf [filename]`: Extract tar files
 - `gunzip [filename]`: unzip .gz files
 
+### Problems: 
+Register at `https://play.picoctf.org/`
+- P1) `https://play.picoctf.org/practice/challenge/85`
+- P2) `https://play.picoctf.org/practice/challenge/320`
 
 
 ## CTF Tips
