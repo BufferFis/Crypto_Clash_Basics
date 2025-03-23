@@ -1,3 +1,49 @@
+# The linux family
+
+Linux  
+├── Arch-based  
+│   ├── Arch Linux  
+│   ├── Manjaro  
+│   ├── EndeavourOS  
+│   ├── Athena OS  
+│   ├── Artix Linux  
+│   ├── Garuda Linux  
+│   ├── ArcoLinux  
+│   ├── CachyOS  
+│   ├── BlackArch  
+│   ├── Parabola GNU/Linux  
+│  
+├── Debian-based  
+│   ├── Debian  
+│   ├── Ubuntu  
+│   │   ├── Kubuntu  
+│   │   ├── Xubuntu  
+│   │   ├── Lubuntu  
+│   │   ├── Ubuntu MATE  
+│   │   ├── Ubuntu Budgie  
+│   │   ├── Pop!_OS  
+│   │   ├── Zorin OS  
+│   │   ├── Linux Mint  
+│   ├── Kali Linux  
+│   ├── Parrot OS  
+│   ├── MX Linux  
+│   ├── Devuan  
+│  
+├── Fedora-based  
+│   ├── Fedora  
+│   ├── Ultramarine Linux  
+│   ├── Nobara  
+│   ├── Qubes OS  
+│  
+├── Other Distros  
+│   ├── openSUSE (SUSE-based)  
+│   ├── Void Linux (Independent)  
+│   ├── Gentoo (Source-based)  
+│   ├── Slackware (Oldest still maintained)  
+│   ├── Alpine Linux (Security-focused)  
+│   ├── Clear Linux (Intel-optimized)  
+
+
 # Linux Basics and Forensics
 
 ## Introduction
