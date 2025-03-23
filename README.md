@@ -123,6 +123,20 @@ Linux uses a hierarchical file system structure. Key directories include:
 - `tar -xvf [filename]`: Extract tar files
 - `gunzip [filename]`: unzip .gz files
 
+### About File Images
+
+A disk image is a huge dump of many numbers. But these numbers have an invisible structure to them that gives them much more meaning. Navigating this invisible structure manually is tedious and deeply difficult, but the Sleuthkit tools handle this invisible structure for us. To begin using the Sleuthkit tools we must understand some of the layers that apply to disk images. The four main layers are: media, block, inode, and filename.
+
+- Media: the media layer tools all are prepended with 'mm' and operate on the disk image with little guidance from the analyst. mmls is a media layer tool that gives us the partition table of the image and key information for delving into the other layers. Media is the lowest level, providing key information to access the deeper layers, but not shedding much light on the data contained in the image.
+
+- Block: the block layer is the second lowest level of the four layers considered here. Block layer tools are prepended with 'blk' in the Sleuthkit. blkcat is a block layer tool that outputs the contents of a single block. The block layer is the numbers of the disk image broken into equal-sized chunks. A single file is likely to contain multiple blocks.
+
+- Inode: the inode layer is the bookkeeping layer of a disk image. It’s like the table of contents, with the chapter numbers being like the inodes, and the pages like the blocks of a file. Inode layer tools are prepended with 'i'. icat is an inode layer tool that outputs a single file based on its inode number.
+
+- Filename: the filename layer is one layer that most any user of a computer actually sees and interacts with. This is the layer with which we will start our exploration of the Sleuthkit in the current challenge. Interacting with the filename layer will look a lot like using the shell normally. Filename layer tools are prepended by 'f'. fls lists the files on an image starting at the root. This is what we will use for our exploration of the disk image.
+
+
+
 ### Problems: 
 Register at `https://play.picoctf.org/`
 - P1) `https://play.picoctf.org/practice/challenge/85`
