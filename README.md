@@ -154,6 +154,8 @@ Disk based questions
 - Combine commands with pipes (`|`) for efficient searching
 - Practice regularly to improve your skills
 
+`Snap sucks`
+
 
 
 
