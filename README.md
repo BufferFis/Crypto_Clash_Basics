@@ -164,4 +164,3 @@ Disk based questions
 - [PicoCTF](https://picoctf.org/) for beginner-friendly CTF challenges
 
 
-`Snap sucks`
