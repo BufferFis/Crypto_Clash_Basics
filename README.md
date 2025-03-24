@@ -154,7 +154,6 @@ Disk based questions
 - Combine commands with pipes (`|`) for efficient searching
 - Practice regularly to improve your skills
 
-`Snap sucks`
 
 
 
@@ -164,3 +163,5 @@ Disk based questions
 - [OverTheWire Bandit Wargame](https://overthewire.org/wargames/bandit/) for practicing Linux skills
 - [PicoCTF](https://picoctf.org/) for beginner-friendly CTF challenges
 
+
+`Snap sucks`
