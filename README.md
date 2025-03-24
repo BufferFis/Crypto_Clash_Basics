@@ -138,7 +138,7 @@ A disk image is a huge dump of many numbers. But these numbers have an invisible
 
 
 ### Problems: 
-Register at `https://play.picoctf.org/`
+Register at https://play.picoctf.org/
 - https://play.picoctf.org/practice/challenge/85
 - https://play.picoctf.org/practice/challenge/320
 - https://play.picoctf.org/practice/challenge/15
